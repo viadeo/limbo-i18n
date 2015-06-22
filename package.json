@@ -1,5 +1,5 @@
 {
-  "name": "limbo-i18n",
+  "name": "node-limbo-i18n",
   "version": "1.0.0",
   "description": "i18n lib for Limbo applications",
   "main": "index.js",
